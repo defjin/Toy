@@ -24,10 +24,10 @@ def slackrun() :
     #slack_token = config("SSAFYMENUSLACKTOKEN") # ssafy
     
     client = slack.WebClient(token = slack_token)
-    #client.chat_postMessage(
-    #channel="general",
-    #text="Hello from your app! :tada:"
-#)
+#     client.chat_postMessage(
+#     channel="general",
+#     text="Hello from your app! :tada:"
+# )
 #     client.chat_postMessage(
 #   channel="menu",
 #   blocks=[
@@ -62,11 +62,12 @@ def slackrun() :
 #     }
 #   ]
 # )
-    client.files_upload(
-    channels="menu",
-    file=r"C:\Users\student\Downloads\menu.png",
-    title="Test upload"
-)
+#     client.files_upload(
+#     #channels="menu",
+#     channels = 'general',
+#     file=r"C:\Users\student\Downloads\menu.png",
+#     title="Test upload"
+# )
 
 if __name__ == '__main__' :
-    #slackrun()
+    slackrun()
