@@ -1,0 +1,16 @@
+C:\Users\Jin\source\repos\음성인식\음성인식\bin\x64\Debug\음성인식.exe.config
+C:\Users\Jin\source\repos\음성인식\음성인식\bin\x64\Debug\음성인식.exe
+C:\Users\Jin\source\repos\음성인식\음성인식\bin\x64\Debug\음성인식.pdb
+C:\Users\Jin\source\repos\음성인식\음성인식\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\App.g.cs
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식_MarkupCompile.cache
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식_MarkupCompile.lref
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\MainWindow.baml
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.g.resources
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.Properties.Resources.resources
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.csproj.GenerateResource.Cache
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.csproj.CoreCompileInputs.cache
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.exe
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.pdb
+C:\Users\Jin\source\repos\음성인식\음성인식\obj\x64\Debug\음성인식.csprojResolveAssemblyReference.cache
